@@ -1,25 +1,22 @@
 //wait The Window To Load
 /*
  * Project: Elzero Web School - JavaScript Assignments
- * Lesson: [6: Lessons 1-9]
+ * Lesson: [7: Lessons 1-9]
  * Description:"Understanding JavaScript data types and how to check them using the typeof operator."
  * Author: Mohamed Abdel Fattah
- * Date: 2026-01-25
+ * Date: 2026-01-27
  */
-window.onload = function () {
-    document.querySelector("h1").style.color = "blue";
-};
+/*
+--Output To Screen
+---window.alert()
+---document.write()
+---console.log()
 
-// Single - line - Comment
-// Single - line - Comment
-// Single - line - Comment
-// ctrl + /
-
-
-
-
-
-
+--Syntax
+*/
+// window.alert("Hello From JS File");
+document.write("<h1>hello<span>Page</span></h1>");
+console.log("Hello From JS File")
 
 
 
