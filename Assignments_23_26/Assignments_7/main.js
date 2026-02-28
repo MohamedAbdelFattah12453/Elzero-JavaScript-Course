@@ -1,0 +1,1 @@
+console.log(Math.floor(Math.random() * (true + true + true + true + true))); // 0 || 1 || 2 || 3 || 4
