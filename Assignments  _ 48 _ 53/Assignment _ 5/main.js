@@ -1,5 +1,6 @@
 let friends = ["Ahmed", "Sayed", "Eman", "Mahmoud", "Ameer", "Osama", "Sameh"];
 let letter = "a";
+let count = friends.includes("Ahmed")
 // Output
 // "1 => Sayed"
 // "2 => Eman"
