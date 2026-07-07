@@ -1,5 +1,5 @@
 /*
-    Det2ructuring
+    Destructuring
     - Challenge
 */
 
