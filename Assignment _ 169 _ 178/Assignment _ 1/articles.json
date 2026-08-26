@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "author": "Mohamed",
+        "category": "Technology",
+        "title": "Future Technology",
+        "content": "Education"
+    },
+    {
+        "id": 2,
+        "author": "Adam",
+        "category": "Gaming",
+        "title": "Gaming For Anyone",
+        "content": "Gaming"
+    },
+
+    {
+        "id": 3,
+        "author": "Elzero",
+        "category": "Programming",
+        "title": "Start Learning Life Is Short",
+        "content": "Programming"
+    },
+
+    {
+        "id": 4,
+        "author": "Sayed",
+        "category": "Online Coaching",
+        "title": "Fitness",
+        "content": "Online Coaching"
+    },
+
+    {
+        "id": 5,
+        "author": "Ahmed",
+        "category": "Reading",
+        "title": "Knowledge From Reading",
+        "content": "Reading"
+    }
+]
